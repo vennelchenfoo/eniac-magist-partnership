@@ -65,3 +65,9 @@ It taught me that:
 ---
 
 ## 📂 Repository Structure  
+
+├── magist_big_picture.sql         # Exploratory SQL queries
+├── business_questions.sql         # Business-focused SQL queries
+├── Brazil Market Analysis.pdf     # External market research
+├── ENIAC-Magist Partnership.pdf   # Final presentation slides
+└── README.md                      # This file
